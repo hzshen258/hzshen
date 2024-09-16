@@ -24,19 +24,14 @@ author:
   avatar           : "myphoto.png"
   name             : "Hangzheng Shen"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm a student exploring Cold Atom Physics in USTC"
   location         : "Hefei, Anhui, China"
   uri              : http://hzshen258.github.io/hzshen
   email            : "hzshen@ustc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
